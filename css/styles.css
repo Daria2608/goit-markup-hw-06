@@ -253,6 +253,7 @@ fill: #F4F4FD;
     background-position: left top;
     background-size: cover;
     background-position: center;
+    margin: 0 auto;
 }
 
 /* header mobile styles */
